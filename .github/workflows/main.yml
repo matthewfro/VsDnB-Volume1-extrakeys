@@ -39,10 +39,11 @@ jobs:
           hmm install
           haxelib install lime
           haxelib install openfl
+          haxelib install hxcpp-debug-server 1.2.4
           haxelib install flixel
           haxelib install flixel-tools
           haxelib install flixel-ui
-          haxelib install flixel-addons
+          haxelib install flixel-addons 3.2.0
           haxelib install actuate
           haxelib install tjson
           haxelib install hxjsonast
@@ -84,10 +85,11 @@ jobs:
           hmm install
           haxelib install lime
           haxelib install openfl
+          haxelib install hxcpp-debug-server 1.2.4
           haxelib install flixel
           haxelib install flixel-tools
           haxelib install flixel-ui
-          haxelib install flixel-addons
+          haxelib install flixel-addons 3.2.0
           haxelib install actuate
           haxelib install tjson
           haxelib install hxjsonast
@@ -130,10 +132,11 @@ jobs:
           hmm install
           haxelib install lime
           haxelib install openfl
+          haxelib install hxcpp-debug-server 1.2.4
           haxelib install flixel
           haxelib install flixel-tools
           haxelib install flixel-ui
-          haxelib install flixel-addons
+          haxelib install flixel-addons 3.2.0
           haxelib install actuate
           haxelib install tjson
           haxelib install hxjsonast
